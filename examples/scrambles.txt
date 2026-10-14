@@ -1,0 +1,4 @@
+# Short scrambles to try (remove the # and run one at a time)
+R U R' U'
+F R U R' U' F'
+R2 U2 F
